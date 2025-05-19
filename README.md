@@ -7,6 +7,12 @@ This is a static website built to represent the brand identity, services, and ce
 👉 [Visit the Live Website] (https://momi-agro-industries.onrender.com))  
 
 
+## 🖼️ Website Preview
+
+![Website Screenshot](images/screenshot.png)
+
+
+
 ## 🎯 Project Purpose
 
 The site serves as a digital presence for Momi Agro Industries, highlighting:
