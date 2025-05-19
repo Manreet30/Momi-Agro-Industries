@@ -9,7 +9,7 @@ This is a static website built to represent the brand identity, services, and ce
 
 ## 🖼️ Website Preview
 
-![Website Screenshot](images/screenshot.png)
+![Website Screenshot](Pics/Screenshot.png)
 
 
 
